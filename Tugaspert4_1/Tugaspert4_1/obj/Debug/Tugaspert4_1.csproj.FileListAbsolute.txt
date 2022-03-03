@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Tugaspert4_1\Tugaspert4_1\bin\Debug\Tugaspert4_1.exe
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Tugaspert4_1\Tugaspert4_1\bin\Debug\Tugaspert4_1.pdb
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Tugaspert4_1\Tugaspert4_1\obj\Debug\Tugaspert4_1.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Tugaspert4_1\Tugaspert4_1\obj\Debug\Tugaspert4_1.MainForm.resources
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Tugaspert4_1\Tugaspert4_1\obj\Debug\Tugaspert4_1.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Tugaspert4_1\Tugaspert4_1\obj\Debug\Tugaspert4_1.exe
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Tugaspert4_1\Tugaspert4_1\obj\Debug\Tugaspert4_1.pdb
